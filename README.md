@@ -20,10 +20,10 @@
 
 
 - My skills are:
- - Problems solving profile
- - Team work
- - I'm a self-taught person
- - Fluid english
+   - Problems solving profile
+   - Team work
+   - I'm a self-taught person
+   - Fluid english
 
 - 📫 How to reach me: Here is my email: ae.sargiotto.dsoftware@gmail.com and my LinkedIn profile: https://www.linkedin.com/in/alfonsosargiotto-dsoftware/
 
